@@ -1,4 +1,4 @@
-# eurorack
+# DIY eurorack modules
 DIY eurorack projects
 
 This is a repository of my DIY projects for Eurorack modular synths.
