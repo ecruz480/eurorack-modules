@@ -9,6 +9,6 @@ This is a VCO based on the analog AS3340 oscillator IC. The design is a modifica
 - Switch included to change between positive and negative sync.
 
 ### Dimensions
-Height: 3U
-Width: 7HP
-Board stack-up depth: 25.4mm
+Height: 3U  
+Width: 7HP  
+Depth: 25.4 mm  
