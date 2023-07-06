@@ -1,7 +1,7 @@
 # DIY eurorack modules
 DIY eurorack projects
 
-This is a repository of my DIY projects for Eurorack modular synths.
+This is a repository for my DIY Eurorack modular synths.
 
 3340_vco:
 Voltage Controlled Oscillator (VCO) based on the AS3340.
