@@ -1,0 +1,21 @@
+#,Reference,Qty,Value,Footprint
+1,"C1, C2",2,100n,Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm
+2,C3,1,10n,Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+3,C4,1,1u,Capacitor_THT:C_Rect_L7.2mm_W5.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2
+4,"C5, C6",2,1u,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm
+5,"D1, D2",2,LED,LED_THT:LED_D3.0mm
+6,"D3, D4",2,1N4007,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
+7,J1,1,AudioJack2,simple_lfo:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical
+8,J2,1,Conn_02x05_Odd_Even,Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical
+9,"R1, R10, R11",3,470R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+10,"R3, R4, R5",3,100K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+11,R6,1,4K7,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+12,"R7, R8, R9",3,10K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+13,"RV1, RV2",2,100K,simple_lfo:right_alpha_pot
+14,SW1,1,Range,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+15,SW2,1,Shape,Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+16,TP1,1,+12V,TestPoint:TestPoint_Pad_D2.0mm
+17,TP2,1,-12V,TestPoint:TestPoint_Pad_D2.0mm
+18,TP3,1,Tri,TestPoint:TestPoint_Pad_D2.0mm
+19,TP4,1,Sqr,TestPoint:TestPoint_Pad_D2.0mm
+20,U1,1,TL074,Package_DIP:DIP-14_W7.62mm
