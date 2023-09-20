@@ -14,4 +14,4 @@ Voltage Controlled Oscillator (VCO) based on the AS3340.
 5 channel mixer that sums all inputs to a single mono output jack.  
 
 **simple-lfo**  
-Compact LFO module with saw/square-wave outputs. Frequency reange peaks at human-hearing levels.  
+Compact LFO module with saw/square-wave outputs. Frequency reange peaks at low end of human-hearing levels.  
