@@ -11,6 +11,9 @@ Voltage Controlled Oscillator (VCO) based on the AS3340 IC.
 **5-ch-mixer**  
 5 channel mixer that sums all inputs to a single mono output jack. Can be used for audio and CV.  
 
+**feitw-adsr**  
+ADSR module based on the iconic 555 timer IC.
+
 **passive-mult**  
 A simple passive multiplier with 2 inputs and 6 total outputs (3 per each input). When the 2nd input signal is removed, the 1st signal is duplicated 7 distinct times.
 
