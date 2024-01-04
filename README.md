@@ -14,6 +14,9 @@ Voltage Controlled Oscillator (VCO) based on the AS3340 IC.
 **feitw-adsr**  
 ADSR module based on the iconic 555 timer IC.
 
+**ks-20-filter**  
+A VCF module based on the famous MS-20 filter with some minor tweaks.
+
 **passive-mult**  
 A simple passive multiplier with 2 inputs and 6 total outputs (3 per each input). When the 2nd input signal is removed, the 1st signal is duplicated 7 distinct times.
 
