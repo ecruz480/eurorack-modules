@@ -1,4 +1,4 @@
-# DIY eurorack synth modules  
+# DIY Eurorack Synth Modules  
 
 This repository is focused on sharing my journey of DIY modular synthesis, as well as refining my mixed-signal circuit design skills, from initial concept to final production. As I near the limit my 84hp rack, my goal is to create custom modules that demonstrate quality circuit design principles and advanced layout techniques. I'm beginning with the creation of simpler, user-friendly modules that utilize readily available components. These modules are intended to cater to a broad audience interested in DIY electronics projects. I'm also passionate about highlighting fellow module creators who generously share their work for others to learn from. My overall hope is that you gain some insight and inspiration into the world of engineering and music!
 
