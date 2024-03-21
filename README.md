@@ -11,6 +11,9 @@ Voltage Controlled Oscillator (VCO) based on the AS3340 IC.
 **5-ch-mixer**  
 5 channel mixer that sums all inputs to a single mono output jack. Can be used for audio and CV.  
 
+**ed-vca**  
+A dual VCA module design with the "vintage" LM13700 OTA amplifiers.
+
 **feitw-adsr**  
 ADSR module based on the iconic 555 timer IC.
 
